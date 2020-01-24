@@ -1,3 +1,3 @@
 # hello-world
 first repository
-HI I am learning DatScience from John Hopkins University
+HI I am learning DataScience from John Hopkins University
